@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (11.0.1)
+    colorize (0.8.1)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.4)
+      mini_portile2 (~> 2.4.0)
+    require_all (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  colorize
+  nokogiri
+  require_all
+
+BUNDLED WITH
+   2.0.2
