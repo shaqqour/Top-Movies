@@ -10,7 +10,7 @@ OVERVIEW
 HOW TO RUN PROGRAM
 1. In your terminal, run 'bundle install' to install all required gems.
 2. In your terminal, type 'ruby bin/movielibary.rb' to run the file "movielibrary" (found in 'Movies/bin') in Ruby programming language. 
-3. Follow the instructions inside the program.
+3. Follow the CLI instructions.
 
 FILE INFORMATION:
 - 'Movies/bin' has the running file
